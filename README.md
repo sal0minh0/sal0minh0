@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/sal0minh0">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sal0minh0&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sal0minh0&layout=donut&langs_count=6&theme=blue_navy"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sal0minh0&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sal0minh0&layout=donut&langs_count=6&theme=neon"/>
 </div>
 
 ## Linguagens de meu interesse... 🤓
