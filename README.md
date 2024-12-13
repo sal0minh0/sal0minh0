@@ -35,8 +35,6 @@
 
 ---
 
-<img align="center" src="https://via.placeholder.com/800x1.png?text=">
-
  <p align center>
 
  <!-- Imagens dos E-mails -->
