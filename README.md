@@ -1,19 +1,23 @@
 ## Bem-vindo(a) ao perfil deste programador! 😎
 
  <div>
+  
    <!--Status do Usuário-->
+  
    <a href="https://github.com/sal0minh0">
    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=sal0minh0&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   
    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sal0minh0&layout=donut&langs_count=6&theme=chartreuse-dark"/>
    
-   <!-- Linguagens mais usadas -->
-   
 </div>
+
+ <!-- Linguagens que usarei-->
+
 
 ## Linguagens que quero praticar... 🤓
 
-<div style="display: inline_block"><br>
+
+<div style="display: inline_block">
  
    <!-- Imagens das Linguagens -->
    
@@ -29,13 +33,19 @@
   
 </div>
 
- <div style="display: inline_block"><br>
+---
+
+<img align="center" src="https://via.placeholder.com/800x1.png?text=">
+
+ <p align center>
 
  <!-- Imagens dos E-mails -->
   
-  <a href="mailto:salomaomoraes1@hotmail.com"><img align="center" alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+   <a href="mailto:salomaomoraes1@hotmail.com"><img align="left" alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+  </a>
   
-  <a href="mailto:salomaomoraes.cassiano@gmail.com"><img align="center"  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div> 
+   <a href="mailto:salomaomoraes.cassiano@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+ </p> 
  
 
