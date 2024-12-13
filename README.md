@@ -29,7 +29,7 @@
   
 </div>
 
- <div>
+ <div style="display: inline_block"><br>
 
  <!-- Imagens dos E-mails -->
   
