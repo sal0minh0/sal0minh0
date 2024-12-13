@@ -45,5 +45,11 @@
    <a href="mailto:salomaomoraes.cassiano@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
  </p> 
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sal0minh0/sal0minh0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sal0minh0/sal0minh0/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sal0minh0/sal0minh0/output/github-contribution-grid-snake.svg">
+</picture>
  
 
