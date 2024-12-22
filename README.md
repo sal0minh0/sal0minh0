@@ -1,4 +1,8 @@
+<div align="center">
+
 ## Bem-vindo(a) ao perfil deste programador! 😎
+
+</div>
 
  <div>
   
@@ -14,10 +18,13 @@
  <!-- Linguagens que usarei-->
 
 
+<div align="center">
+
 ## Linguagens que quero praticar... 🤓
 
+</div>
 
-<div style="display: inline_block">
+<div align="center" style="display: inline_block">
  
    <!-- Imagens das Linguagens -->
    
@@ -35,7 +42,17 @@
 
 ---
 
- <p align center>
+<p align="center">   
+ 
+ <img alingn="center" src="https://profile-counter.glitch.me/sal0minh0/count.svg"/>
+ 
+ </p>
+
+---
+
+
+
+ <p align="center">
 
  <!-- Imagens dos E-mails -->
   
@@ -46,10 +63,14 @@
   </a>
  </p> 
 
+<div align="center">
+
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sal0minh0/sal0minh0/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sal0minh0/sal0minh0/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sal0minh0/sal0minh0/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
  
 
