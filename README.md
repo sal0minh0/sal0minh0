@@ -40,28 +40,33 @@
   
 </div>
 
----
 
-<p align="center">   
+<!-- <p align="center">   
  
  <img alingn="center" src="https://profile-counter.glitch.me/sal0minh0/count.svg"/>
  
  </p>
-
+-->
 ---
 
 
 
  <p align="center">
 
- <!-- Imagens dos E-mails -->
+ <!-- Imagens dos Shields -->
+ 
   
-   <a href="mailto:salomaomoraes1@hotmail.com"><img align="left" alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+   <a href="mailto:salomaomoraes.cassiano@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" target="_blank">
   </a>
-  
-   <a href="mailto:salomaomoraes.cassiano@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+
+   <a href="https://roadmap.sh/u/salominho"><img align="left" alt="Roadmapsh" src="https://img.shields.io/badge/Roadmap-000000?style=flat&logo=roadmap.sh&logoColor=white" target="_blank">
+   
   </a>
  </p> 
+ 
+ <br>
+ 
+---
 
 <div align="center">
 
