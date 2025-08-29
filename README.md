@@ -9,7 +9,7 @@
    <!--Status do Usuário-->
   
    <a href="https://github.com/sal0minh0">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sal0minh0&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact"/>
+  &nbsp;<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sal0minh0&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact"/>
   
    <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=sal0minh0&theme=chartreuse-dark&hide_border=false"/>
    
