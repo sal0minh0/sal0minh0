@@ -19,7 +19,11 @@
  <br>
  <img alingn="center" src="https://komarev.com/ghpvc/?username=sal0minh0&color=7F00FF&style=flat-square&abbreviated=true&label=Contador+de+Visitas"/>
  
+<!-- Resetar contador: https://yhype.me/ghpvc -->
+
  </p>
+
+
 
  <!-- Linguagens-->
 
