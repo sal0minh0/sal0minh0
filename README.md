@@ -1,6 +1,6 @@
 <div align="center">
 
-## Bem-vindo(a) ao perfil deste programador! 😎
+## Bem-vindo(a) ao perfil deste programador! 🧑‍💻
 
 </div>
 
@@ -15,38 +15,37 @@
    
 </div>
 
- <!-- Linguagens que usarei-->
+ <p align="center">   
+ <br>
+ <img alingn="center" src="https://komarev.com/ghpvc/?username=sal0minh0&color=7F00FF&style=flat-square&abbreviated=true&label=Contador+de+Visitas"/>
+ 
+ </p>
+
+ <!-- Linguagens-->
 
 
 <div align="center">
 
-## Linguagens que quero praticar... 🤓
+## Tecnologias que já usei: 🚀
 
 </div>
 
 <div align="center" style="display: inline_block">
  
    <!-- Imagens das Linguagens -->
+
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg">
+
+  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg">
- 
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg">
- 
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   
 </div>
 
-
-<!-- <p align="center">   
- 
- <img alingn="center" src="https://profile-counter.glitch.me/sal0minh0/count.svg"/>
- 
- </p>
--->
 ---
 
 
