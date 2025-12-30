@@ -15,22 +15,12 @@
    -->
 </div>
 
- <p align="center">   
- <br>
- <img alingn="center" src="https://komarev.com/ghpvc/?username=sal0minh0&color=7F00FF&style=flat-square&abbreviated=true&label=Contador+de+Visitas"/>
- 
-<!-- Resetar contador: https://yhype.me/ghpvc -->
-
- </p>
-
-
-
  <!-- Linguagens-->
 
 
 <div align="center">
 
-## Tecnologias que já usei: 🚀
+### Foco: 
 
 </div>
 
@@ -41,18 +31,24 @@
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg">
-
+<!--
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   
+   -->
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
+<!--
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg">
-  
+  -->
 </div>
 
 ---
 
+ <p align="center">   
+ <br>
+ <img alingn="center" src="https://komarev.com/ghpvc/?username=sal0minh0&color=7F00FF&style=flat-square&abbreviated=true&label=Contador+de+Visitas"/>
+ 
+<!-- Resetar contador: https://yhype.me/ghpvc -->
 
+ </p>
 
  <p align="center">
 
